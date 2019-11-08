@@ -16,7 +16,7 @@
 */ 
 
 
-$config['base_url'] = 'http://sannhadat.vip';
+$config['base_url'] = 'https://sannhadat.vip';
 $config['cookie_prefix']	= "";
 $config['cookie_domain']	= ".sannhadat.vip";
 $config['disk']	= '/';// CHU Y: Cai tren window thi ghi la C:

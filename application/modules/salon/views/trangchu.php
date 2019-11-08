@@ -73,12 +73,12 @@
                     </div>
                     <div class="clear"></div>
                     <h3 class="tongquan">Tổng quan</h3>
-                    <div class="prj-over" style="width: 640px;text-align: justify;">
+                    <div class="prj-over" style="width: 100%;text-align: justify; padding: 10px 30px">
                          <? echo html_entity_decode($salon_info['GioiThieu']);?>
                     </div>
                     <style>
                     .prj-over img{
-                        max-width: 630px!important;
+                        max-width: 100%!important;
                     }
                     </style>
                     
