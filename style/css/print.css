@@ -1,0 +1,40 @@
+﻿@media print {
+    @page {
+        margin: 1cm 1cm;
+        /*margin: 1cm 1cm;*/
+    }
+
+    /* -- Typography -- */
+    body {
+        width: 100%;
+        border: 0;
+        margin: 0 5%;
+        padding: 0;
+        float: none !important;
+    }
+
+    p, table, ul, ol, dl, blockquote, pre, code, form {
+        margin: 0 0 1em;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: #0091b2 !important;
+        padding-left: 0 !important;
+        float: none !important;
+        border: none !important;
+    }
+
+    /* -- Hide screen specific elements -- */
+    .login, .pageheader, .pagemenu,.search-container, .path, .bds-cars-same, .pagefooter, .bds-right-detail, .img-button, .button_transparen, .dart, .button, .saloninfo, .salonmenu, .contentright {
+        display: none !important;
+    }
+
+    .at, .tn , .tskt {
+        display:block !important;
+    }
+
+    .left-cardetail{    
+        width:95% !important;
+        border:none !important;
+    }
+}

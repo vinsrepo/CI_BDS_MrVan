@@ -1,0 +1,423 @@
+/*DuongNQ create*/
+/*images*/
+
+.div_tip {
+	background-color:#FFFFE1;
+	border:1px solid #CE5802;
+	font-family:arial,tahoma,verdana;
+	font-size:13px;
+	padding:5px 15px 15px;
+	width:300px;
+}
+
+#img-box
+{
+    width: 720px;
+    border: 1px solid #DEDEDE;  
+    height: 310px;
+}
+
+
+/* 210/280-top20px */
+
+
+.img-box-1
+{
+    float: left;
+    height: 240px;
+    width: 343px;
+    margin: 30px 0px 0 40px;
+}
+
+
+.img-box-9
+{
+    float: right;
+    height: 240px;
+    width: 300px;
+    margin: 30px 20px 0 0px;
+}
+
+.img-box-thumb
+{
+    float: left;
+    height: 48px;
+    width: 63px;
+    background-color: #f5f5f5;
+    margin: 0px 0px 30px 22px;
+    border: 1px solid #dedede;
+}
+.img9
+{
+    height: 47px;
+    width: 63px;
+}
+
+.img-box-paging
+{
+    float: left;
+    height: 48px;
+    width: 400px;
+    margin: 0px 0px 18px 20px;
+}
+
+#map-box
+{
+    width: 250px;
+    height: 375px;  
+    overflow:hidden;
+}
+.mapzoom
+{
+    height: 20px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    color: Red;
+}
+#hotcar-header
+{
+    width: 250px;
+    height: 31px;
+    
+}
+#hotcar-body
+{
+    width: 248px;
+    border: 1px solid #68b2cc;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    float: left;
+  
+}
+
+#hotcar-bottom
+{
+    width: 228px;
+    border: 1px solid #68b2cc;
+    border-top-width: 0px;
+    float: left;
+    height: 25px;
+    vertical-align: middle;
+    padding: 5px 0 5px 20px;
+}
+
+#hotcar-header h3
+{
+    padding: 5px 0 0 20px;
+    font-weight: bold;
+    font-size: 13px;
+    height: 10px;
+    color: #1b3f74;
+}
+.hotcar-row
+{
+    width: 240px;
+    float: left;
+    height: 75px;
+}
+.hotcar-body-left
+{
+    float: left;
+    width: 70px;
+    height: 62px;
+    margin: 0 4px 0 4px;
+}
+.hotcar-body-left img
+{
+	width:60px;
+	border:1px solid #dedede;
+	padding:1px;
+}
+.hotcar-body-right
+{
+   
+    vertical-align: top;
+}
+
+.hotcar-des
+{
+    padding: 0px 0 0px 0px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #555;
+   
+}
+.hotcar-link
+{
+    font-size: 12px;
+    color: #3533A9;
+    font-weight: bold;
+}
+
+
+.hostcar-bestprice
+{
+    padding: 5px 0 0 0px;
+    font-weight: bold;
+    font-size: 12px;
+    color: Red;
+}
+
+
+
+/* list grid */
+.salon-col-item
+{
+	
+	width:33%;
+	float:left;
+	border:1px solid #DEDEDE;	
+	height:240px;
+	
+}
+.c_last
+{
+	border-right:0px;
+	
+}
+.salon-grid-img
+{	
+    margin-top:20px;
+	width:240px;
+	text-align:center;
+	float:left;
+}
+.salon-car-img
+{
+   
+	margin:4px;
+	padding:2px;
+	width:180px;
+	height:139px;
+    
+}
+
+.salon-grid-title
+{
+	width:180px;
+	margin:2px 0 0 35px;
+	float:left;
+	text-align:left;
+}
+
+.salon-grid-price
+{	
+	width:180px;
+	font-weight:bold;
+	color:Red;
+	font-size:12px;
+	margin:2px 0 0 35px;
+}
+
+.salon_title
+{
+	color:darkblue;
+	font-weight:bold;
+	font-size:16px;
+	text-indent:10px;
+	
+}
+
+.salon_gallery
+{
+	background:#F9F9F9 none repeat scroll 0 0;
+	border:1px solid #DEDEDE;
+	float:left;
+	width:706px;
+	padding:10px;
+	margin-bottom:10px;
+}
+#med_img img
+{
+	width:340px;
+	height:auto;
+	border:1px solid #DEDEDE;
+}
+#med_img 
+{
+	width:380px;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.gallery_title
+{
+	color:#555;
+	float:left;
+	font-style:italic;
+	padding:3px;
+}
+.sl_list_thumb
+{
+	float:left;
+	margin:5px 0px 10px 8px;
+	padding:0;
+	width:310px;
+}
+.sl_list_thumb span
+{
+	background:#F5F5F5 none repeat scroll 0 0;
+	
+	display:block;
+	float:left;
+	height:67px;
+	margin:10px 6px 10px 6px;
+	width:90px;
+}
+.sl_list_thumb span img
+{
+	width:90px;
+	height:67px;
+	border:1px solid #DEDEDE;
+}
+.col-item
+{
+	height:232px;
+	width:33.19%;
+	
+}
+.g-b-header h3 .sl_header
+{
+	color:blue;
+}
+.sl_grid_price
+{
+	color:darkred;
+	text-align:center;
+	font-weight:bold;
+	font-size:14px;
+	margin-top:5px;
+	
+}
+.grid_title a 
+{
+	font-size:14px;
+}
+
+#nav-bar .menu-bb-home
+{
+	background:transparent url(../img/bb_bar.gif) repeat-x scroll 0px -290px;	
+	display:block;
+	float:right;
+	font-size:13px;
+	font-weight:bold;
+	height:16px;
+	padding:6px 12px 8px;
+	text-align:center;
+	text-decoration:none;
+	white-space:nowrap;
+	color:red;
+}
+.salon_header_txt
+{
+	position: absolute; top: 32px; left: 280px; width: 720px; text-align: center;font-size:20px;color:#2645A1;font-weight:bold;
+}
+#salon_logo
+{
+	height:80px;float:left;width:380px;
+}
+.mactive
+{
+	color:darkred;
+	
+}
+#loading
+{
+	background:#F0F7F9;	
+	display:none;
+	position:absolute;
+	margin-top:10px;
+	margin-left:10px;
+	height:18px;
+	width:80px;
+	padding:2px;
+	opacity: .9;
+
+	
+}
+
+
+.contact-box2 {
+	background:#F5F5F5 none repeat scroll 0 0;
+	border:1px solid #DEDEDE;
+	float:left;
+	height:130px;
+	margin:5px 0 3px 10px;
+	width:340px;
+}
+.cinfo2 {
+	float:left;
+	width:330px;
+	padding-left:10px;
+}
+
+.contact-txt2 {
+	float:left;
+	line-height:19px;
+	padding-left:2px;
+	width:320px;
+}
+#medium_img img {
+	border:1px solid #DEDEDE;
+	float:left;
+	height:250px;
+	margin:10px;
+	width:330px !important;
+}
+.car_img
+{
+	float:left;
+	width:140px;
+	height:120px;
+	text-align:center;
+}
+.car_img img
+{
+	width:120px;
+	height:90px;
+	border:1px solid #dedede;
+	padding:1px;
+}
+
+.row1 {
+	border-bottom:1px dotted #DEDEDE;
+	width:100%;
+}
+.car-item {
+	border-bottom:1px dotted #DEDEDE;
+	float:left;
+	height:100px;
+	padding-top:5px;
+}
+.car_link
+{
+	float:left;
+	height:30px;
+	width:440px;
+}
+.car_link a
+{
+	font-size:14px;
+}
+.car_price
+{
+	float:left;
+	height:30px;
+	width:140px;
+	color:blue;
+	
+}
+.car_des
+{
+	float:left;
+	width:700px;
+	height:70px;
+}
+.car_des_list
+{
+	float:left;
+	width:550px;
+	height:70px;
+	color:#666;
+}

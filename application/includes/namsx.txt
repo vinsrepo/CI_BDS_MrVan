@@ -1,0 +1,83 @@
+           <div id="ContentPlaceHolder1_ProjectHome_divProject" class="project-hl">
+    <div class="hl-title">
+        <h3><a href="/du-an" title="Dự án nổi bật">Dự án nổi bật</a></h3>
+    </div>
+    <div class="wr_project">
+        <div class="wr_slide">
+            <div class="slideproject">
+                <div id="sliderA" class="slider">
+                    
+                            <div>
+                                <a href="/du-an/khu-dan-cu-binh-chanh/khu-dan-cu-camellia-garden-pj2338.htm" title="Khu dân cư Camellia Garden">
+                                    <img src="http://img2.dothi.net/dothi_svr_1_crop_310_204_3.20151208141413-fa10-hmcVYWuR.jpg" alt="Khu dân cư Camellia Garden" />
+                                </a>
+                                <h4><a href="/du-an/khu-dan-cu-binh-chanh/khu-dan-cu-camellia-garden-pj2338.htm" title="Khu dân cư Camellia Garden">Khu dân cư Camellia Garden</a></h4>
+                                <p>Đường Nguyễn Văn Linh, Bình Chánh, Hồ Chí Minh</p>
+                            </div>
+
+
+                            <div>
+                                <a href="/du-an/khu-can-ho-nam-tu-liem/chung-cu-athena-complex-pj2331.htm" title="Chung cư Athena Complex">
+                                    <img src="http://img2.dothi.net/dothi_svr_1_crop_310_204_3.20151203133249-f154-hmcVYWuR.jpg" alt="Chung cư Athena Complex" />
+                                </a>
+                                <h4><a href="/du-an/khu-can-ho-nam-tu-liem/chung-cu-athena-complex-pj2331.htm" title="Chung cư Athena Complex">Chung cư Athena Complex</a></h4>
+                                <p>Đường Xuân phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội</p>
+                            </div>
+                        
+                            <div>
+                                <a href="/du-an/khu-dan-cu-nam-tu-liem/five-star-my-dinh-pj2327.htm" title="Five Star Mỹ Đình">
+                                    <img src="http://img2.dothi.net/dothi_svr_1_crop_310_204_3.20151201133317-cedd-hmcVYWuR.jpg" alt="Five Star Mỹ Đình" />
+                                </a>
+                                <h4><a href="/du-an/khu-dan-cu-nam-tu-liem/five-star-my-dinh-pj2327.htm" title="Five Star Mỹ Đình">Five Star Mỹ Đình</a></h4>
+                                <p>Đường Đình Thôn, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội</p>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+        </div>
+        <div class="thumbSlide">
+            <div class="listproject">
+                
+                        <div rel="0" class="act item first">
+                            <a class="tt_project" href="/du-an/khu-dan-cu-binh-chanh/khu-dan-cu-camellia-garden-pj2338.htm" title="Khu dân cư Camellia Garden">
+                                <img class="avatar" src="http://img2.dothi.net/dothi_svr_1_crop_104_69_3.20151208141413-fa10-hmcVYWuR.jpg" alt="Khu dân cư Camellia Garden" />
+                            </a>
+                            <div class="info_project">
+                                <a href="/du-an/khu-dan-cu-binh-chanh/khu-dan-cu-camellia-garden-pj2338.htm" title="Khu dân cư Camellia Garden">Khu dân cư Camellia Garden</a>
+                                <p>Đường Nguyễn Văn Linh, Bình Chánh, Hồ Chí Minh</p>
+                            </div>
+                        </div>
+
+                        
+                        <div rel="1" class="act item first">
+                            <a class="tt_project" href="/du-an/khu-can-ho-nam-tu-liem/chung-cu-athena-complex-pj2331.htm" title="Chung cư Athena Complex">
+                                <img class="avatar" src="http://img2.dothi.net/dothi_svr_1_crop_104_69_3.20151203133249-f154-hmcVYWuR.jpg" alt="Chung cư Athena Complex" />
+                            </a>
+                            <div class="info_project">
+                                <a href="/du-an/khu-can-ho-nam-tu-liem/chung-cu-athena-complex-pj2331.htm" title="Chung cư Athena Complex">Chung cư Athena Complex</a>
+                                <p>Đường Xuân phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội</p>
+                            </div>
+                        </div>
+                    
+                        <div rel="2" class="item">
+                            <a class="tt_project" href="/du-an/khu-dan-cu-nam-tu-liem/five-star-my-dinh-pj2327.htm" title="Five Star Mỹ Đình">
+                                <img class="avatar" src="http://img2.dothi.net/dothi_svr_1_crop_104_69_3.20151201133317-cedd-hmcVYWuR.jpg" alt="Five Star Mỹ Đình" />
+                            </a>
+                            <div class="info_project">
+                                <a href="/du-an/khu-dan-cu-nam-tu-liem/five-star-my-dinh-pj2327.htm" title="Five Star Mỹ Đình">Five Star Mỹ Đình</a>
+                                <p>Đường Đình Thôn, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội</p>
+                            </div>
+                        </div>
+                    
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <script>
+        $(function () {
+            $("#sliderA").excoloSlider();
+        });
+    </script>
+
+</div>    

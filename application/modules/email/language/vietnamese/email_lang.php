@@ -1,0 +1,22 @@
+<?php
+$lang['lable_email_path'] = "Đường dẫn sendmail";
+$lang['lable_email_name'] = "Tên email";
+$lang['title_config_email'] = "CẤU HÌNH EMAIL";
+$lang['lable_mailer'] = "Cổng giao tiếp";
+$lang['lable_mail_add'] = "Địa chỉ email";
+$lang['lable_smtp_host'] = "Máy chủ STMP";
+$lang['lable_smtp_port'] = "Cổng STMP";
+$lang['lable_smtp_user'] = "Tài khoản STMP";
+$lang['lable_smtp_pass'] = "Mật khẩu STMP";
+$lang['lable_mau_email'] = "Mẫu email";
+$lang['title_EmailChaoMung'] = "EMAIL CHÀO MỪNG";
+$lang['title_EmailKichHoat'] = "EMAIL KÍCH HOẠT TÀI KHOẢN";
+$lang['title_EmailQuenMatKhau'] = "EMAIL QUÊN MẬT KHẨU";
+$lang['title_send_email'] = "GỬI EMAIL";
+$lang['lable_chedogui'] = "Chế độ gửi";
+$lang['lable_chedogui1'] = "Chỉ gửi cho một thành viên";
+$lang['lable_chedogui2'] = "Gửi cho một địa chỉ email";
+$lang['lable_chedogui3'] = "Gửi cho tất cả các thành viên";
+$lang['sucses_sendmail'] = "Gửi email thành công !";
+$lang['error_email'] = "Địa chỉ email không hợp lệ !";
+$lang['error_chedo'] = "Vui lòng chọn chế độ gửi !";

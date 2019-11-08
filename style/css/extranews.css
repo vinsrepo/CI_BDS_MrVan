@@ -1,0 +1,40 @@
+#olderitemtitle, #neweritemtitle, #relateditemtitle {
+	font-weight:bold;
+	text-align: left;
+	color: #666;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.extranews_tooltip{
+	text-align: justify;
+}
+.extranews_date{
+	color: #999;
+}
+.extranews_nextpage{
+	margin-left: 30px;
+}
+.extranews_priviuospage{
+	margin-right: 30px;
+}
+
+.extranews_priviuospage a{
+	margin-right: 30px;
+	
+}
+
+
+#relateditemlist, #neweritemlist, #olderitemlist{
+	margin-left: 0px;	
+}
+
+#relateditemlist a, #neweritemlist a, #olderitemlist a{
+	color:#005697;
+	text-decoration:none;
+}
+
+#relateditemlist a:hover, #neweritemlist a:hover, #olderitemlist a:hover{
+	color:#f58a06;
+	text-decoration:none;
+}
+

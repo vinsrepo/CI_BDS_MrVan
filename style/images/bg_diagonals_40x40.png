@@ -1,0 +1,346 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><title>
+	Đô thị, Bất động sản, Mua bán nhà đất, Cho thuê nhà đất - dothi.net
+</title><link href="/Images/favicon.ico?v=1" rel="shortcut icon" type="image/x-icon" /><link href="/Styles/reset.css" rel="stylesheet" />
+    <link href="/Styles/Styles.min.css?v=2015121811" rel="stylesheet" />
+    <link href="/Scripts/jquery-ui/jquery-ui.min.css" rel="stylesheet" />
+    <!-- Scripts -->
+
+    <script src="/Scripts/jquery-1.7.2.min.js"></script>
+    <script src="/Scripts/jquery-ui-1.8.24.min.js"></script>
+    <script src="/Scripts/ExcoloSlider/jquery.excoloSlider.js"></script>
+    <link href="/Scripts/ExcoloSlider/jquery.excoloSlider.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/Scripts/Fancybox/source/jquery.fancybox.css" media="all" />
+    <script type="text/javascript" src="/Scripts/Fancybox/source/jquery.fancybox.js"></script>
+    <script src="/Scripts/Common.min.js?v=2015121811"></script>
+    <script type="text/javascript" src="/Scripts/jquery.placeholder.min.js"></script>
+    <script src="/Scripts/jquery.cookie-1.4.1.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var domainCookie = 'dothi.net'
+        var productId = '0';
+        var userId = '';
+    </script>
+    <script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    //js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=711922948870179&version=v2.0";
+    js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    </script>
+    <meta name="keywords" content="Kênh, thông, tin, số, 1, về, bất, động, sản" /><meta name="description" content="Kênh thông tin về bất động sản tại Việt Nam: mua bán nhà đất, cho thuê nhà đất, văn phòng, căn hộ, biệt thự, chung cư." />
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-68549774-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    
+<meta property="fb:app_id" content="501286850027197" /><link media="only screen and (max-width: 640px)" rel="alternate" href="http://m.dothi.net/Styles/Images/bg_diagonals_40x40.png" /><link media="handheld" rel="alternate" href="http://m.dothi.net/Styles/Images/bg_diagonals_40x40.png" /></head>
+<body>
+    <form method="post" action="/Styles/Images/bg_diagonals_40x40.png" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWBAIEDxUBCjIwMTUxMjE4MTFkAgkPFQMKMjAxNTEyMTgxMQlkb3RoaS5uZXQAZAIDDxYCHgZhY3Rpb24FJS9TdHlsZXMvSW1hZ2VzL2JnX2RpYWdvbmFsc180MHg0MC5wbmcWBAIBD2QWAgIBD2QWAmYPDxYCHgdWaXNpYmxlaGRkAgMPZBYCZg8WAh4EVGV4dAX5CzxsaSBjbGFzcz0nbHYwJz48YSBocmVmPSIvdGluLXR1Yy5odG0iIHRpdGxlPSJUaW4gdOG7qWMiPlRpbiB04bupYzwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPjxsaT48YSBocmVmPSIvdGluLXRoaS10cnVvbmcuaHRtIiB0aXRsZT0iVGluIHRo4buLIHRyxrDhu51uZyI+VGluIHRo4buLIHRyxrDhu51uZzwvYT48L2xpPjxsaT48YSBocmVmPSIvY2hpbmgtc2FjaC1xdXktaG9hY2guaHRtIiB0aXRsZT0iQ2jDrW5oIHPDoWNoIC0gUXV5IEhv4bqhY2giPkNow61uaCBzw6FjaCAtIFF1eSBIb+G6oWNoPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii90aW4tZHUtYW4uaHRtIiB0aXRsZT0iVGluIGThu7Egw6FuIj5UaW4gZOG7sSDDoW48L2E+PC9saT48bGk+PGEgaHJlZj0iL2Jkcy10aGUtZ2lvaS5odG0iIHRpdGxlPSJCxJBTIFRo4bq/IGdp4bubaSI+QsSQUyBUaOG6vyBnaeG7m2k8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdsdjAnPjxhIGhyZWY9Ii90aGlldC1rZS1raWVuLXRydWMuaHRtIiB0aXRsZT0iVGhp4bq/dCBr4bq/IGtp4bq/biB0csO6YyI+VGhp4bq/dCBr4bq/IGtp4bq/biB0csO6YzwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPjxsaT48YSBocmVmPSIvdHUtdmFuLXRoaWV0LWtlLmh0bSIgdGl0bGU9IlTGsCB24bqlbiB0aGnhur90IGvhur8NCiI+VMawIHbhuqVuIHRoaeG6v3Qga+G6vw0KPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9raWVuLXRodWMteGF5LWR1bmcuaHRtIiB0aXRsZT0iS2nhur9uIHRo4bupYyB4w6J5IGThu7FuZyI+S2nhur9uIHRo4bupYyB4w6J5IGThu7FuZzwvYT48L2xpPjxsaT48YSBocmVmPSIvdGhlLWdpb2kta2llbi10cnVjLmh0bSIgdGl0bGU9IlRo4bq/IGdp4bubaSBraeG6v24gdHLDumMNCiI+VGjhur8gZ2nhu5tpIGtp4bq/biB0csO6Yw0KPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nbHYwJz48YSBocmVmPSIva2hvbmctZ2lhbi1zb25nLmh0bSIgdGl0bGU9Iktow7RuZyBnaWFuIHPhu5FuZyI+S2jDtG5nIGdpYW4gc+G7kW5nPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIGhyZWY9Ii9uaGEtZGVwLmh0bSIgdGl0bGU9Ik5ow6AgxJHhurlwIj5OaMOgIMSR4bq5cDwvYT48L2xpPjxsaT48YSBocmVmPSIvbm9pLXRoYXQuaHRtIiB0aXRsZT0iTuG7mWkgdGjhuqV0Ij5O4buZaSB0aOG6pXQ8L2E+PC9saT48bGk+PGEgaHJlZj0iL25nb2FpLXRoYXQuaHRtIiB0aXRsZT0iTmdv4bqhaSB0aOG6pXQNCiI+Tmdv4bqhaSB0aOG6pXQNCjwvYT48L2xpPjxsaT48YSBocmVmPSIvbWFjaC1iYW4uaHRtIiB0aXRsZT0iTcOhY2ggYuG6oW4NCiI+TcOhY2ggYuG6oW4NCjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2x2MCc+PGEgaHJlZj0iL3Bob25nLXRodXkuaHRtIiB0aXRsZT0iUGhvbmcgdGjhu6d5Ij5QaG9uZyB0aOG7p3k8L2E+PC9saT48bGkgY2xhc3M9J2x2MCc+PGEgaHJlZj0iL3R1LXZhbi1sdWF0Lmh0bSIgdGl0bGU9IlTGsCB24bqlbiBsdeG6rXQNCiI+VMawIHbhuqVuIGx14bqtdA0KPC9hPjwvbGk+ZGRnDATDTFktpQv6uqO1U9Y2+O5Ucg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB827D4F" />
+</div>
+        <!-- Header -->
+        
+<div id="wr_header" class="header">
+    
+<div class="header-register" id="headerregister">
+    <div class="action">
+        
+        
+        <div class="logon">
+            <a href="/dang-nhap.htm" rel="nofollow" title="Đăng nhập">
+                <span>Đăng nhập</span>
+            </a>
+        </div>
+        <div class="register">
+            <a href="/dang-ky.htm" rel="nofollow" title="Đăng ký">
+                <span>Đăng ký</span>
+            </a>
+        </div>
+
+        
+    </div>
+</div>
+
+    <div class="header-logo">
+        <div class="hdcontent">
+            <div class="content-logo" style="padding-top: 15px">
+                <a href="/" title="Đô thị">
+                    <img src="/Images/logo_noel.png" alt="Đô thị"></a>
+            </div>
+            <div class="MultiBanner2 content-banner" id="Banner_dothi" style="display: none">
+                <a href="http://file.dothi.net/KM/tung-bung-khuyen-mai-uu-dai-dac-biet-tu-dothi-net.html" target="_blank" rel="nofollow">
+                    <img src="/Images/banner/banner-top-ctkm.gif" /></a>
+            </div>
+            <div class="MultiBanner1 content-banner" id="Banner" style="display: none">
+                <a href="http://file.dothi.net/KM/tung-bung-khuyen-mai-uu-dai-dac-biet-tu-dothi-net.html" target="_blank" rel="nofollow">
+                    <img src="/Images/banner/banner-top-ctkm.gif" /></a>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var indexBanner = Math.ceil(Math.random() * 2);
+        $('.MultiBanner' + indexBanner).show();
+        setInterval(function () {
+            $('.content-banner').hide();
+            indexBanner = indexBanner <= 1 ? indexBanner + 1 : 1;
+            $('.MultiBanner' + indexBanner).toggle();
+        }, 8000);
+    </script>
+</div>
+
+        <!-- End Header -->
+        <!-- Me nú -->
+        
+<div class="menu">
+    <div class="menu-content">
+        <ul class="nav-menu">
+            <li class="lv0 ">
+                <a href="/" title="Trang chủ">Trang chủ
+                </a>
+            </li>
+            <li class="lv0">
+                <a href="/nha-dat-ban.htm" title="BĐS bán">BĐS bán</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/ban-can-ho-chung-cu.htm" title="Bán căn hộ chung cư">Bán căn hộ chung cư</a></li>
+                    <li><a href="/ban-nha-dat.htm" title="Tất cả các loại nhà bán">Tất cả các loại nhà bán</a></li>
+                    <li><a href="/ban-nha-rieng.htm" title="Bán nhà riêng">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bán nhà riêng</a></li>
+                    <li><a href="/ban-nha-biet-thu-lien-ke.htm" title="Bán nhà biệt thự, liền kề">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bán nhà biệt thự, liền kề</a></li>
+                    <li><a href="/ban-nha-mat-pho.htm" title="Bán nhà mặt phố">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bán nhà mặt phố</a></li>
+                    <li><a href="/ban-dat-dat-nen.htm" title="Tất cả các loại đất bán">Tất cả các loại đất bán</a></li>
+                    <li><a href="/ban-dat-nen-du-an.htm" title="Bán đất nền dự án">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bán đất nền dự án</a></li>
+                    <li><a href="/ban-dat.htm" title="Bán đất">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bán đất</a></li>
+                    <li><a href="/ban-trang-trai-khu-nghi-duong.htm" title="Bán trang trại, khu nghỉ dưỡng">Bán trang trại, khu nghỉ dưỡng</a></li>
+                    <li><a href="/ban-kho-nha-xuong.htm" title="Bán kho, nhà xưởng">Bán kho, nhà xưởng</a></li>
+                    <li><a href="/ban-loai-bat-dong-san-khac.htm" title="Bán loại bất động sản khác">Bán loại bất động sản khác</a></li>
+                </ul>
+            </li>
+            <li class="lv0">
+                <a href="/nha-dat-cho-thue.htm" title="BĐS cho thuê">BĐS cho thuê</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/cho-thue-can-ho-chung-cu.htm" title="Cho thuê căn hộ chung cư">Cho thuê căn hộ chung cư</a></li>
+                    <li><a href="/cho-thue-nha-rieng.htm" title="Cho thuê nhà riêng">Cho thuê nhà riêng</a></li>
+                    <li><a href="/cho-thue-nha-mat-pho.htm" title="Cho thuê nhà mặt phố">Cho thuê nhà mặt phố</a></li>
+                    <li><a href="/cho-thue-nha-tro-phong-tro.htm" title="Cho thuê nhà trọ, phòng trọ">Cho thuê nhà trọ, phòng trọ</a></li>
+                    <li><a href="/cho-thue-van-phong.htm" title="Cho thuê văn phòng">Cho thuê văn phòng</a></li>
+                    <li><a href="/cho-thue-cua-hang-ki-ot.htm" title="Cho thuê cửa hàng, ki ốt">Cho thuê cửa hàng, ki ốt</a></li>
+                    <li><a href="/cho-thue-kho-nha-xuong-dat.htm" title="Cho thuê kho, nhà xưởng, đất">Cho thuê kho, nhà xưởng, đất</a></li>
+                    <li><a href="/cho-thue-loai-bat-dong-san-khac.htm" title="Cho thuê loại bất động sản khác">Cho thuê loại bất động sản khác</a></li>
+                </ul>
+            </li>
+            <li class='lv0'><a href="/tin-tuc.htm" title="Tin tức">Tin tức</a><ul class="dropdown-menu"><li><a href="/tin-thi-truong.htm" title="Tin thị trường">Tin thị trường</a></li><li><a href="/chinh-sach-quy-hoach.htm" title="Chính sách - Quy Hoạch">Chính sách - Quy Hoạch</a></li><li><a href="/tin-du-an.htm" title="Tin dự án">Tin dự án</a></li><li><a href="/bds-the-gioi.htm" title="BĐS Thế giới">BĐS Thế giới</a></li></ul></li><li class='lv0'><a href="/thiet-ke-kien-truc.htm" title="Thiết kế kiến trúc">Thiết kế kiến trúc</a><ul class="dropdown-menu"><li><a href="/tu-van-thiet-ke.htm" title="Tư vấn thiết kế
+">Tư vấn thiết kế
+</a></li><li><a href="/kien-thuc-xay-dung.htm" title="Kiến thức xây dựng">Kiến thức xây dựng</a></li><li><a href="/the-gioi-kien-truc.htm" title="Thế giới kiến trúc
+">Thế giới kiến trúc
+</a></li></ul></li><li class='lv0'><a href="/khong-gian-song.htm" title="Không gian sống">Không gian sống</a><ul class="dropdown-menu"><li><a href="/nha-dep.htm" title="Nhà đẹp">Nhà đẹp</a></li><li><a href="/noi-that.htm" title="Nội thất">Nội thất</a></li><li><a href="/ngoai-that.htm" title="Ngoại thất
+">Ngoại thất
+</a></li><li><a href="/mach-ban.htm" title="Mách bạn
+">Mách bạn
+</a></li></ul></li><li class='lv0'><a href="/phong-thuy.htm" title="Phong thủy">Phong thủy</a></li><li class='lv0'><a href="/tu-van-luat.htm" title="Tư vấn luật
+">Tư vấn luật
+</a></li>
+            <li class="lv0">
+                <a href="/du-an-bat-dong-san.htm" title="Dự án">Dự án</a>
+                <ul class="dropdown-menu">
+                    <li><a href="/cao-oc-van-phong.htm" title="Cao ốc văn phòng">Cao ốc văn phòng</a></li>
+                    <li><a href="/khu-can-ho.htm" title="Khu căn hộ">Khu căn hộ</a></li>
+                    <li><a href="/khu-do-thi-moi.htm" title="Khu đô thị mới">Khu đô thị mới</a></li>
+                    <li><a href="/khu-thuong-mai-dich-vu.htm" title="Khu thương mại dịch vụ">Khu thương mại dịch vụ</a></li>
+                    <li><a href="/khu-phuc-hop.htm" title="Khu phức hợp">Khu phức hợp</a></li>
+                    <li><a href="/khu-dan-cu.htm" title="Khu dân cư">Khu dân cư</a></li>
+                    <li><a href="/khu-du-lich-nghi-duong.htm" title="Khu du lịch nghỉ dưỡng">Khu du lịch nghỉ dưỡng</a></li>
+                    <li><a href="/khu-cong-nghiep.htm" title="Khu công nghiệp">Khu công nghiệp</a></li>
+                    <li><a href="/du-an-khac.htm" title="Dự án khác">Dự án khác</a></li>
+                </ul>
+            </li>
+             <li class="lv0"><a href="/rao-vat.htm" title="Đăng tin">Rao vặt</a></li>
+            
+            <li class="postnew lv0"><a href="/dang-tin-ban-cho-thue-nha-dat.htm" title="Đăng tin">Đăng tin</a></li>
+            
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var href = window.location.pathname;
+    var a_return = new Array(); // Danh sách Url được active
+    var AllUrl = new Array(); // arr Url
+    var ElementUrl = $(".nav-menu li a");
+
+    var arrHref = href.split("/"); // phân tích current url 
+
+    for (var i = 0; i < ElementUrl.length; i++) {
+        var abc = ElementUrl[i].toString().split("/");
+        if (abc.length > 3) {
+            AllUrl.push(abc[3].replace(".htm", "")); // lấy được arr url
+        }
+    }
+
+    if (arrHref.length >= 2) {
+        var currentUrl = arrHref[1];
+        for (var i = 0; i < AllUrl.length; i++) {
+            var _index = currentUrl.search(AllUrl[i]); //Duyet chuoi danh sach Url de so sanh voi Current Url
+            if (_index != -1) {
+                a_return.push(AllUrl[i]); //Neu la tap con cua URL thi add vao array 
+            }
+        }
+    }
+
+    var return_data = "";
+    var return_index = 0;
+    for (x in a_return) {
+        if (a_return[x].length > return_index) {//so sanh do dai lon nhat trung` voi URL thi lay gia tri
+            return_index = a_return[x].length;
+            return_data = a_return[x]; //gia tri can lay (duy nhat 1 gia tri)
+        }
+    }
+    var taga = $('.nav-menu,.dropdown-menu').find('a[href=\'/' + return_data + '.htm\']');
+
+    if (taga.length > 0) {
+        setActiveClass(taga, 0);
+    }
+
+    function setActiveClass(tag, interval) {
+        $(".lv0").removeClass('active');
+        tag.addClass('active');
+        if (tag.hasClass('lv0')) {
+            return;
+        }
+        interval++;
+        if (interval <= 3) { // Menu dothi chỉ có 2 cấp, ul > li > ul > li. ra 3 cấp mới set được parrent
+            setActiveClass(tag.parent(), interval);
+        } else {
+        }
+    }
+</script>
+
+        <div class="wr_page">
+            
+    
+    <center class="errortext"><span>Nội dung không tồn tại !!!</span></center>
+    <div class="diverrorimage">
+        <img src="/Images/Error/1.png" class="errorimage" alt="Nội dung không tồn tại !!!"/>
+    </div>
+
+            <div class="clear"></div>
+        </div>
+        <!-- Footer -->
+        
+<div class="footer">
+    <div class="menu-bottom">
+        <ul>
+            <li><a href="/gioi-thieu.htm" rel="nofollow">Giới thiệu</a></li>
+            <li><a href="/huong-dan.htm" rel="nofollow">Hướng dẫn sử dụng</a></li>
+            <li><a href="/quy-dinh.htm" rel="nofollow">Quy định</a></li>
+            <li><a href="/lien-he.htm" rel="nofollow">Liên hệ</a></li>
+            
+            <li><a href="/dieu-khoan.htm" rel="nofollow">Điều khoản thỏa thuận</a></li>
+            <li><a href="/bao-gia.htm" rel="nofollow">Báo giá</a></li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="footer_bottom">
+        <div class="row_footer">
+            <div class="logo_footer">
+                <a href="/" title="Đô thị">
+                    <img src="/Images/logo.png" alt="Đô thị"></a>
+            </div>
+            <div class="info_footer">
+                <p>Giấy phép hoạt động trang tin điện tử ICP số 23/GP-TTĐT.</p>
+                <p>Copyright © 2010 - 2015 Dothi.net. ® Ghi rõ nguồn "Dothi.net" khi phát hành lại thông tin từ website này.</p>
+                <p class="info_ct">
+                    <span>Hot line:  0903 236 862 - 0969 980 365 - 093 205 141</span>
+                </p>
+                <p class="info_ct">
+                     <a style="border:none;margin:0;padding:0" rel="nofollow" href="mailto:cskh@info@dothi.net?Subject=Liên hệ-info@dothi.net" target="_top">Email: info@dothi.net</a>
+                    <a href="skype:cskh.dothinet?chat" rel="nofollow">Skype: cskh.dothinet</a>
+                    <a href="ymsgr:sendim?cskh.dothinet" rel="nofollow">Yahoo: cskh.dothinet</a>
+                </p>
+                <p class="info_ct">
+                    <span>Địa chỉ: Số 80B - Nguyễn Văn Cừ - Long Biên - HN.</span>
+                </p>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="bd_footer"></div>
+        </div>
+        <div class="share_footer">
+            <span style="float: left;">Phát triển bởi: <a href="http://vgroup.vn" rel="nofollow" title="VGROUP" target="_blank" class="color00ffd1">VGROUP</a></span>
+            <iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/pages/Dothinet/501286850027197&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; height: 21px; float: left; width: 165px; margin-left: 20px;" allowtransparency="true"></iframe>
+            <script src="https://apis.google.com/js/platform.js" async defer>
+                         {lang: 'vi'}
+            </script>
+            <!-- Đặt thẻ này vào nơi bạn muốn Nút +1 kết xuất. -->
+            <div class="g-plusone" data-size="medium" data-annotation="inline" data-href="https://plus.google.com/u/2/104751964857878543083/posts" data-width="100"></div>
+            <a class="twitter-share-button"
+                href="https://twitter.com/share">Tweet
+            </a>
+            <script type="text/javascript">
+                window.twttr = (function (d, s, id) { var t, js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return } js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } }) }(document, "script", "twitter-wjs"));
+            </script>
+
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+        <div id="boxProductSaved" style="">
+            <div class="titlebox">
+                <span class="title">Tin đã lưu</span> <span id="deleteAll" title="Xóa tất cả" onclick="deleteAllNews();"></span><span id="btn_close" class="hideAll"></span>
+            </div>
+            <div>
+                <ul class="listbox" style="width: 100%;">
+                </ul>
+            </div>
+        </div>
+        <!-- End Footer -->
+        <div id="SiteLeft" style="display: none">
+            <div class="ban_scroll" id="ban_left" style="width: 100px">
+                <div class="item">
+                    <a id="ban_l1" href="http://file.dothi.net/KM/tung-bung-khuyen-mai-uu-dai-dac-biet-tu-dothi-net.html" rel="nofollow" target="_blank" style="width: 100px;">
+                        <img src="/Images/banner/banner-ThuHT-151022-100x300.gif" />
+                    </a>
+                    <a id="ban_l2" href="http://banxehoi.com" rel="nofollow" target="_blank" style="width: 100px;">
+                        <img src="/Images/banner/banner-bxh-151120-100x300.gif" />
+                    </a>
+                    <a id="ban_l3" href="http://www.truonglocland.com" rel="nofollow" target="_blank" style="width: 100px;display:none">
+                        <img src="/Images/banner/banner-TLL-151217-100x300.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="SiteRight" style="display: none">
+            <div class="ban_scroll" id="ban_right" style="width: 100px">
+                <div class="item">
+                    <a id="ban_r1" href="http://file.dothi.net/KM/tung-bung-khuyen-mai-uu-dai-dac-biet-tu-dothi-net.html" rel="nofollow" target="_blank" style="width: 100px;">
+                        <img src="/Images/banner/banner-ThuHT-151022-100x300.gif" />
+                    </a>
+                    <a id="ban_r2" href="http://banxehoi.com" rel="nofollow" target="_blank" style="width: 100px;">
+                        <img src="/Images/banner/banner-bxh-151120-100x300.gif" />
+                    </a>
+                    <a id="ban_r3" href="http://www.truonglocland.com" rel="nofollow" target="_blank" style="width: 100px;display:none">
+                        <img src="/Images/banner/banner-TLL-151217-100x300.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </form>
+</body>
+</html>

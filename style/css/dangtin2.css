@@ -1,0 +1,290 @@
+body{
+    font-family: Arial;
+}
+#image_lists
+{
+	margin-top:10px;
+}
+.g_submodel
+{
+	width:280px;
+	float:left;
+	padding-top:10px;
+}
+.submodel_item
+{
+	display:block;
+	float:left;
+	width:80px;
+	padding:8px 0px 8px 10px;
+	font-size:13px;
+}
+#submodel-dlg
+{	
+	position:absolute;	
+	height:140px;
+	width:300px;
+	left:290px;
+	
+}
+.sorthelper
+{
+	background-color: #f00;
+	float: left;
+	position:absolute;
+	top:-150px;
+}
+.sortableactive
+{
+}
+.sortablehover
+{
+}
+.sortableitem
+{
+	width:70px;
+	
+	
+}
+.sortableitem img
+{
+	padding: 10px;
+	border:1px solid #aaa;
+	height:110px;
+	width:150px;
+}
+.sortableitem a
+{
+	color:red;
+	font-size:16px;
+	font-weight:bold;
+	left:-15px;
+	position:relative;
+	top:-122px;
+}
+
+#post_car h3
+{	
+	padding:3px 0  3px 0;
+}
+#post_car .Account
+{width:150px; text-align:left; padding-top:3px; float:left; font-weight:bold;padding-left:10px;
+}
+#post_car .bbforminput
+{
+	padding-top:3px;
+	padding-bottom:3px;
+	margin-top:0px;
+	margin-left:0px;
+	border-top:1px solid #dedede;	
+	border-left:1px solid #dedede;	
+	border-right:1px solid #dedede;	
+	width:99%;
+}
+#post_car .bbformfield
+{
+	float:left;
+	line-height:1.6em;
+	padding-left:0px;
+}
+#post_car .f11
+{
+	padding-left:6px;
+}
+#post_car  .bbMsgErr{ color:#c00e0c;background:transparent url(../img/reg_arr_i.gif) no-repeat 3px 4px; padding-top:5px;margin-top:0px;*margin-top:-2px;width:110px;}
+.col{
+	width:100%;
+	 
+	float:left;
+    
+}
+.bbMsg1{font-size:12px; z-index:1; width:285px; position:absolute;left:450px;padding-left:10px;}
+.bbMsg1 p{border:1px solid #C0DBF8; background:#F0F5F8 url(../img/regNotice.gif) no-repeat 5px 5px; padding:5px 5px 5px 22px;font:100 11px Arial; color:#919191}
+.bbMsg1 .first{margin-top:0.2em}
+
+.bbfldErr{background:#FFECEC; border:1px solid #f00; padding:3px 0;}
+.bbfldErr .Account label{padding-left:17px; background:url(../img/reg_i.gif) no-repeat; color:#c00e0c;height:28px;}
+.bbMsg{font-size:12px; z-index:1;  position:absolute;left:-100px; top:0px; background:url(../img/reg_bb.gif) no-repeat 3px -590px; padding-left:10px;}
+.bbMsg p{border:1px solid #FEDCA0; background:#FDFDF0 url(../img/regNotice.gif) no-repeat 5px 5px; padding:5px 5px 5px 22px;font:100 12px Arial;margin:0;}
+.bbMsg .first{margin-top:0.2em}
+.bbMsgErr{ color:#c00e0c;background:url(../img/reg_arr_i.gif) no-repeat 3px 4px; padding-top:5px;width:220px;}
+.regStepTit{line-height:20px; padding-top:10px;}
+.regStepCon{background:#eee;color:#666; padding:5px 0 5px 10px; margin:1px;}
+.bbMsgErr2{font-weight:bold; color:#c00e0c;background:url(../img/reg_arr_i.gif) no-repeat 3px 4px; padding-top:5px; width:240px;}
+
+.col h3{
+	font-weight:bold;
+	color:#0331C4;
+	font-size:13px;
+	margin-right:2px;
+	padding-left:20px;
+	height:18px;
+	padding-top:5px;
+	border: 1px solid #dedede;
+	background:#EFEFEF;
+	margin-top:10px;
+	
+}
+.row{ 
+	*padding-top:2px;
+	*padding-bottom:2px;
+	float:left;	
+	width:99%;
+	border:1px solid #dedede;	
+	border-left:1px solid #dedede;	
+	border-right:1px solid #dedede;	
+    border-bottom: 1px #dedede;
+}
+.row_last{	
+	float:left;	
+	width:99%;
+	border-bottom:1px solid #dedede;	
+	border-left:1px solid #dedede;	
+	border-right:1px solid #dedede;	
+    padding-top:3px;
+	padding-bottom:3px;
+}
+.clear{
+	clear:both;
+}
+.label{
+	float:left;
+	width:150px;	
+}
+.label_tab1{
+	float:left;
+	width:240px;	
+    padding-left: 10px;
+}
+.label label{
+	font-weight:bold;
+}
+.label span{
+	color:red;
+}
+.tabberlive input, select, textarea{
+	font-family:arial;
+	font-size:100%;
+	border:1px solid #afafaf;
+}
+fieldset.adminform {
+	border:1px solid #dedede;
+	margin:0 2px;
+	
+	}
+.upload_pic,.list_pic_upload
+{
+	width:944px;
+	margin-left:20px;
+	padding-bottom:20px;
+	
+}
+.img_des
+{
+	text-align:justify;
+	padding:0px 10px 10px 10px;
+	line-height:20px;
+}
+.submit_div
+{
+	text-align:center;
+	padding:20px;
+}
+.width1
+{
+	width:128px;
+}
+.width2
+{
+	width:180px;
+}
+.suggest_msg
+{
+	float:left;	
+	margin-left:20px;	
+	*margin-left:10px;	
+	margin-top:10px;
+	margin-bottom:10px;
+	height:auto;
+	padding:8px 0 8px 0;	
+	background:#FFFFE5;
+	border:1px solid #F5E082;
+	width:934px;
+	
+	line-height:18px;
+	padding:0px 0px 0px 10px;
+	
+}
+.post_msg
+{
+	
+	padding:10px;
+	padding-bottom:10px;
+	width:680px;
+	border: solid red 1px;
+	margin-bottom:10px;
+	margin-left:120px;	
+	background:#FFFFE5;
+	line-height:16px;
+	float:left;
+	
+}
+.uploading img
+{
+ position:relative;
+ top:3px;
+}
+
+
+#sgg li{
+   margin: .25em 0;
+   list-style: none;
+   padding-left: 12px;
+   background: url(../images/bg_content_li.gif) no-repeat left .5em;
+}
+#sgg {width:90%;margin:20px;}
+#sgg{
+   
+  
+   width:944px;
+   margin-bottom:10px;
+}
+div.tabs { height:34px;}
+#sgg  div.tabs ul.tabs {margin: 0 0 0 0;
+   padding: 0;}
+#sgg div.tabs ul.tabs li,#menu_items li{display:block;float:left; background:none; padding-left:0px;}
+#sgg div.tabs ul.tabs li a,#menu_items li a{display:block;float:left;background:#eeeeee url(../images/tab-bgfade.png) repeat-x scroll center center;border:1px solid #dedede;margin:0 auto;padding:0;text-decoration:none;line-height:30px;padding:0 0.96em;}
+#sgg div.tabs ul.tabs li.tabs-selected a:hover,#sgg div.tabs ul.tabs li.tabs-selected a,#sgg div.tabs ul.tabs li.active a:hover,#sgg div.tabs ul.tabs li.active a,#menu_items li.active a:hover,#menu_items li.active a{margin-bottom:-1px;height:31px;background:#FFFFFF;border-bottom:none;}
+#sgg div.tabs ul.tabs li a:hover,#menu_items li a:hover{background:#eeeeee url(../images/tab-bgfade-upsidown.png) repeat-x scroll center center;color:#c22;}
+#sgg div.tabs ul.primary{float:none;margin:0 auto;min-height:31px;}
+#sgg div.tabs ul.secondary{float:none;margin:0 auto;font-size:.8em;}
+.outline{border:solid #dedede 1px;}
+.subcontent { padding-top:1px;}
+
+
+
+#sgg .tabberlive .tabbertabhide { display: none; }
+
+/*--------------------------------------------------
+  .tabber = before the tabber interface is set up
+  .tabberlive = after the tabber interface is set up
+  --------------------------------------------------*/
+#sgg .tabber { }
+
+/*--------------------------------------------------
+  ul.tabbernav = the tab navigation list
+  li.tabberactive = the active tab
+  --------------------------------------------------*/
+.cRed{
+    color: red;
+    font-weight: bold;
+}
+#sgg {}  
+#sgg ul.tabbernav { margin: 0; padding: 0px 0;  height:34px;}
+#sgg ul.tabbernav li { display:block;float:left; background:none; padding-left:0px;}
+#sgg ul.tabbernav li a {display:block;float:left;background:#eeeeee url(../images/tab-bgfade.png) repeat-x scroll center center;border:1px solid #dedede;margin:0 auto;text-decoration:none;line-height:30px;padding:0 52px; }
+#sgg ul.tabbernav li a:hover {background:#eeeeee url(../images/tab-bgfade-upsidown.png) repeat-x scroll center center;color:#c22; }
+#sgg ul.tabbernav li.tabberactive a { margin-bottom:-1px;height:31px;background:#FFFFFF;border-bottom:none; font-weight:bold; color:#000000;}
+#sgg ul.tabbernav li.tabberactive a:hover { margin-bottom:-1px;height:31px;background:#FFFFFF;border-bottom:none; }
+#sgg .tabbertab {BORDER: #dedede 1px solid;height:600px;background: white;}
+#sgg h2 { display:none;}

@@ -1,0 +1,129 @@
+﻿
+
+@media print {
+    @page {
+        margin: 0;
+        /*margin: 1cm 1cm;*/
+    }
+
+    /* -- Typography -- */
+    body {
+        width: 100%;
+        border: 0;
+        margin: 0 5%;
+        padding: 0;
+        float: none !important;
+    }
+
+    p, table, ul, ol, dl, blockquote, pre, code, form {
+        margin: 0 0 1em;
+    }
+    #myGallery {
+        display: none;
+    }
+
+    h1, h2, h3, h4, h5 {
+        color: #0091b2 !important;
+        padding-left: 0 !important;
+        float: none !important;
+        border: none !important;
+    }
+    .product-detail .pd-tab, .MultiBanner1, .MultiBanner2,#headerregister, .banner,#boxProductSaved,.header .header-content .logo .action,.menu,.breakcum,.index-page .content .content-right,.index-page .content .content-left .pd-other,.index-page .content .content-left .comment,.footer,.product-detail .pd-share {
+         display:none !important;
+     }
+      .content-left, .galleria-image {
+        width: 1000px !important;
+    }
+     .index-page .content .content-left .product-detail {width:940px !important;margin:0 auto;}
+    .pd-info .pd-dacdiem,.pd-info .pd-contact {width:450px !important;}
+
+     #imgPrint {
+        display: block !important;
+        text-align: center;
+    } 
+
+        #imgPrint ul li img {
+            margin-top: 15px;
+        }
+        .product-detail .pd-location {padding-left:0 !important;}
+
+        .header .header-logo .hdcontent {margin-top:30px !important}
+}
+ 
+/*--------------------------------slide ------------------*/
+
+.content-focusnews p {margin-bottom:20px}
+
+/*----------------Slide img auto detail*/
+
+.imageslide .imagecontainer img {
+	width:400px; 
+}
+
+.imageslide .imageitemslide {
+	height:43px;
+    padding-top:9px;
+    padding-bottom:9px;
+    margin: 0 auto;	
+	overflow:hidden;
+	position:relative;
+	width:400px;
+    background-color:#dcf3ff;
+}
+
+.imageslide .wp-imageitemslide {
+	height:43px;
+	left:50px;
+    position:absolute;
+	overflow:hidden;	
+	width:296px;
+    padding-left:28px;
+    padding-right:25px;
+}
+
+.imageslide .imageitemslide img {
+	cursor:pointer;
+	float:left;
+	height:43px;
+	margin:0 2.5px;
+	width:55px;
+}
+
+.imageslide .imageitemslide img .last {margin:0}
+
+.imageslide .imageitemslide .dart {
+	position:absolute;
+	top:17px;
+	width:12px;
+	height:25px;
+	margin:0;
+	cursor:pointer;
+}
+
+.imageslide .imageitemslide .slide_animation {
+	height:43px;		            
+    position:absolute;
+    left:0;
+}
+
+.imageslide .imageitemslide .osgslide-active{
+	/*border:1px solid #2e8894;*/
+}
+
+.imageslide ul.gallery {
+	float:left;
+	width:358px;
+}
+
+.imageslide ul.gallery li {
+	float:left;
+	width:70px;
+	margin:0 2px 2px 0;
+}
+
+.imageslide ul.gallery li.last {margin:0}
+
+.imageslide ul.gallery img {
+	float:left;
+	width:70px;
+}

@@ -1,0 +1,37 @@
+<?php
+$lang['error_time_binhluan'] = "Bạn phải chờ sau %s giây nữa mới được gửi bình luận tiếp theo !";
+$lang['btn_binhluan'] = "Gửi bình luận";
+$lang['title_dangtinbanxe'] = "Đăng tin mua bán nhà đất";
+$lang['title_dangmuabanxe'] = "Đăng tin mua xe";
+$lang['title_ql_tinbanxe'] = "Quản lý tin rao";
+$lang['title_ql_tinmuaxe'] = "Quản lý tin mua xe";
+$lang['title_tinmuaxe'] = "Tin mua xe";
+$lang['title_tinbanxe'] = "Tin bán xe";
+$lang['lable_matin'] = "Mã tin";
+$lang['lable_muctien'] = "Khoảng giá";
+$lang['lab_thanhcong'] = "Đăng tin thành công !";
+$lang['lab_editthanhcong'] = "Sửa tin thành công !";
+$lang['lab_salon_thanhcong'] = "Thêm xe bán mới thành công !";
+$lang['error_AlbumAnh'] = "Vui lòng upload ảnh cho tin rao của bạn";
+
+$lang['lable_thongso_batbuoc_HangXe'] = "Loại nhà đất";
+$lang['lable_thongso_batbuoc_DoiXe'] = "Tỉnh/Thành phố";
+$lang['lable_thongso_khongbatbuoc_PhanHang'] = "Đường/Phố";
+$lang['lable_thongso_batbuoc_NamSX'] = "Quận/Huyện"; 
+$lang['lable_thongso_khongbatbuoc_XuatXu'] = "Phường/Xã";
+$lang['lable_thongso_khongbatbuoc_TinhTrang'] = "Dự án"; 
+$lang['lable_thongso_khongbatbuoc_SoKM'] = "Đơn vị";
+$lang['lable_thongso_batbuoc_DongXe'] = "Địa điểm"; 
+$lang['lable_thongso_batbuoc_GiaTien'] = "Giá tiền";
+$lang['lable_thongso_khongbatbuoc_LoaiTien'] = "Loại tiền";
+$lang['lable_thongso_khongbatbuoc_NgoaiThat'] = "Diện tích";  
+$lang['lable_thongso_khongbatbuoc_NoiThat'] = "Hướng BĐS"; 
+$lang['lable_thongso_khongbatbuoc_SoCua'] = "Số cửa";
+$lang['lable_thongso_khongbatbuoc_SoChoNgoi'] = "Số chỗ ngồi"; 
+$lang['lable_thongso_khongbatbuoc_HopSo'] = "Mặt tiền";  
+$lang['lable_thongso_khongbatbuoc_DanDong'] = "Đường trước nhà"; 
+$lang['lable_thongso_khongbatbuoc_NhienLieu'] = "Số tầng";
+$lang['lable_thongso_khongbatbuoc_HeThongNapNhienLieu'] = "Số phòng";
+$lang['lable_thongso_khongbatbuoc_MucTieuThu'] = "Số toilet";
+$lang['lable_thongso_batbuoc_TieuDe'] = "Tiêu đề";
+$lang['lable_thongso_batbuoc_ThongTinMota'] = "Thông tin mô tả"; 

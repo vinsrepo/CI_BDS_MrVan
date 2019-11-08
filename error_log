@@ -1,0 +1,41 @@
+[17-May-2016 07:14:23 UTC] PHP Fatal error:  Class 'CI_DB_mysql_driver' not found in /home/sieushop/public_html/batdongsan3mien.com/system/database/DB.php on line 144
+[01-Jun-2016 11:04:51 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:05:10 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:06:12 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:06:33 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:06:40 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:06:46 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:07:01 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:07:05 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:07:21 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:07:33 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:07:46 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:08:59 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:11:34 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:11:39 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:12:54 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:13:36 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:14:27 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:14:29 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:14:34 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:15:25 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:16:35 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:16:37 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:16:44 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:17:19 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:18:50 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:19:00 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:19:03 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:21:04 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:21:15 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:21:21 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:21:56 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:22:12 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[01-Jun-2016 11:22:13 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=18) state=0 in /home/sieushop/public_html/application/modules/dangtin/controllers/dangtin.php on line 11
+[05-Jun-2016 17:41:12 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:41:13 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:41:13 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:41:25 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:41:54 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:41:58 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37
+[05-Jun-2016 17:42:23 UTC] PHP Fatal error:  Class 'CI_Lang' not found in /home/sieushop/public_html/application/third_party/MX/Lang.php on line 37

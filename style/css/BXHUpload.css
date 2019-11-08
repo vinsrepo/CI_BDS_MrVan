@@ -1,0 +1,49 @@
+﻿.upload-item{
+    cursor: pointer; 
+    position: relative;
+}
+.upload-item .upload-item-delete, 
+.upload-item .upload-item-rotate {
+    position: absolute;
+}
+.default-theme .upload-item {
+    background: url('../images/bg-upload-area1.png') no-repeat;
+    width: 120px;
+    height: 90px;     
+    overflow: hidden;
+    float: left;
+    margin: 0 2px 5px 2px;
+}
+.default-theme .upload-item-loading{
+    background: url('../images/upload-loading.gif') no-repeat scroll center;  
+}
+.default-theme .upload-item .upload-item-delete{
+    background: url('../images/upload-tool-delete.png') no-repeat;
+    width: 24px;
+    height: 24px;  
+    right: 1px;
+    bottom: 1px;
+    border:0;
+}
+.default-theme .upload-item .upload-item-rotate{
+    background: url('../images/upload-tool-rotation.png') no-repeat;
+    width: 24px;
+    height: 24px;  
+    left: 1px;
+    top: 1px;
+    border:0;
+}
+.default-theme .fileuploadie7{
+    opacity: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0); 
+    width: 120px;
+    height: 90px;
+    display: block;
+    cursor: pointer;
+}
+/*for ie7*/
+.default-theme .upload-item img.background {
+    width: 120px;
+    height: 90px;
+}

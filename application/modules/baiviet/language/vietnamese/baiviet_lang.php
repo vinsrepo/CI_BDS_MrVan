@@ -1,0 +1,27 @@
+<?php
+$lang['lable_creat_anoucement'] = "Tạo bài viết mới";
+$lang['lable_edit_anoucement'] = "Sửa bài viết";
+$lang['lable_opition_type'] = "Chọn loại bài viết";
+$lang['lable_Banner'] = "Quảng cáo";
+$lang['lable_DuAn'] = "Dự án";
+$lang['lable_ThongBao'] = "Thông báo";
+$lang['lable_TinTuc'] = "Tin tức";
+$lang['lable_TuVanXe'] = "Thiết kế kiến trúc";
+$lang['lable_SoSanhXe'] = "Phong thủy";
+$lang['lable_DanhGiaXe'] = "Không gian sống";
+$lang['lable_KinhNghiem'] = "Tư vấn luật";
+$lang['lable_Oto360'] = "Ô tô 360";
+$lang['lable_Video'] = "Video ô tô";
+$lang['lable_MenuFooter'] = "Menu Footer";
+$lang['lable_MenuHuongDan'] = "Menu Hướng dẫn";
+$lang['title_ThongBao'] = "QUẢN LÝ THÔNG BÁO";
+$lang['title_DuAn'] = "Dự án";
+$lang['title_Banner'] = "QUẢN LÝ QUẢNG CÁO";
+$lang['title_TinTuc'] = "QUẢN LÝ TIN TỨC";
+$lang['title_MenuHeader'] = "QUẢN LÝ MENU HEADER";
+$lang['title_MenuFooter'] = "QUẢN LÝ MENU FOOTER";
+$lang['title_MenuHuongDan'] = "QUẢN LÝ MENU HƯỚNG DẪN";
+$lang['title_DanhMuc'] = "QUẢN LÝ DANH MỤC";
+$lang['lable_MenuParent'] = "Menu Cha";
+$lang['lable_DanhMuc'] = "Danh Mục";
+$lang['creat_date'] = "Đăng ngày";
