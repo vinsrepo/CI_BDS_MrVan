@@ -21,7 +21,8 @@ if($this->input->get('viewed')=='all'){
     $this->default_model->updateDuLieu('thanhvien',array('viewed'=>1),array('viewed'=>0));
 }
 
-$m="m.".str_replace('/','',str_replace('http://','',base_url()));
+// $m="m.".str_replace('/','',str_replace('http://','',base_url()));
+$m=str_replace('/','',str_replace('http://','',base_url()));
 
 $this->load->library('user_agent');
 
