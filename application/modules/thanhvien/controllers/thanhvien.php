@@ -133,7 +133,7 @@ class Thanhvien extends MX_Controller {
               if($this->default_model->addDuLieuMoi($this->_table,$add))
               {
               $data['title'] = $this->lang->line('title_dangkythanhcong');
-              $data['template']='trangchu'; 
+              $data['template']='profile'; 
               $user=$this->default_model->getInfoID($this->_table,array("username" => $username));                
                if($user!=FALSE)
                {
