@@ -16,7 +16,10 @@
 */ 
 
 
-$config['base_url'] = 'https://sannhadat.vip';
+// $config['base_url'] = 'http://sannhadat.vip';
+$root=(isset($_SERVER["HTTPS"]) ? "https://" : "http://").$_SERVER["HTTP_HOST"];
+$root.= str_replace(basename($_SERVER["SCRIPT_NAME"]), "", $_SERVER["SCRIPT_NAME"]);
+$config["base_url"] = $root; 
 $config['cookie_prefix']	= "";
 $config['cookie_domain']	= ".sannhadat.vip";
 $config['disk']	= '/';// CHU Y: Cai tren window thi ghi la C:
